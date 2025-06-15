@@ -1,6 +1,6 @@
 {
   "name": "ecommerce",
-  "homepage": "https://sunnyloooo.github.io/eCommerce",
+  "homepage": "/eCommerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
