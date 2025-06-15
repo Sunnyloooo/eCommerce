@@ -1,5 +1,6 @@
 {
   "name": "ecommerce",
+  "homepage": "https://sunnyloooo.github.io/eCommerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -59,7 +60,7 @@
     "test": "react-scripts eject",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
